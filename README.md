@@ -36,7 +36,7 @@
 
 
 ### Studying in this moment:
-![react.js](https://img.shields.io/badge/-react.js-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![react.js](https://img.shields.io/badge/-react.js-0D1117?style=for-the-badge&logo=react.js&labelColor=0D1117)&nbsp;
 
 
 <div align="center">
